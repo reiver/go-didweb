@@ -36,9 +36,14 @@ Package **didweb** was written by [Charles Iliya Krempeaux](http://reiver.link)
 * https://github.com/reiver/go-atproto
 * https://github.com/reiver/go-aturi
 * https://github.com/reiver/go-bsky
+* https://github.com/reiver/go-cbor
+* https://github.com/reiver/go-cid
 * https://github.com/reiver/go-did
 * https://github.com/reiver/go-didplc
 * https://github.com/reiver/go-didweb
+* https://github.com/reiver/go-drisl
+* https://github.com/reiver/go-lthash
 * https://github.com/reiver/go-nsid
+* https://github.com/reiver/go-tid
 * https://github.com/reiver/go-xrpc
 * https://github.com/reiver/go-xrpcuri
